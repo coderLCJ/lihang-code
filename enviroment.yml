@@ -9,3 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - sklearn
+    - xgboost
+    - sympy 
